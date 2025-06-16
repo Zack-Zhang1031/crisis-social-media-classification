@@ -1,64 +1,128 @@
-text,image_path,label,
-Heavy rain flooded the main street,images/img001.jpg,Urgent Help,
-Distribution of emergency food ongoing at city center,images/img002.jpg,Relief Info,
-There is no collapse bridge is still safe,images/img003.jpg,Misinformation,
-People enjoy a picnic in the park,images/img004.jpg,Irrelevant,
-Please help the water is rising fast,images/img005.jpg,Urgent Help,
-Medical team has arrived and is treating injured,images/img006.jpg,Relief Info,
-False evacuation order reported in the city,images/img007.jpg,Misinformation,
-My dog is stuck on the roof please help,images/img008.jpg,Irrelevant,
-Several people missing in north area after earthquake,images/img009.jpg,Urgent Help,
-Volunteers are needed at the shelter,images/img010.jpg,Relief Info,
-Police blocked the main roads please avoid,images/img011.jpg,Relief Info,
-Unconfirmed report of hospital running out of medicine,images/img012.jpg,Misinformation,
-Evacuation needed water level rising,images/img013.jpg,Urgent Help,
-Donations can be sent to the community center,images/img014.jpg,Relief Info,
-This photo is old not from today,images/img015.jpg,Misinformation,
-Rumors of food shortage are false,images/img016.jpg,Misinformation,
-Grateful to the rescue team for saving my family,images/img017.jpg,Relief Info,
-Power outage since yesterday elderly people need help,images/img018.jpg,Urgent Help,
-Situation improving as water level drops,images/img019.jpg,Relief Info,
-Rumor about major casualties is not true,images/img020.jpg,Misinformation,
-Drinking coffee at home everyone is fine,images/img021.jpg,Irrelevant,
-Factory fire reported smoke in the area,images/img022.jpg,Urgent Help,
-Volunteers are distributing food,images/img023.jpg,Relief Info,
-No evacuation order given rumors online are false,images/img024.jpg,Misinformation,
-Schools will reopen as planned on Monday,images/img025.jpg,Irrelevant,
-Ambulance cannot reach east zone need road cleared,images/img026.jpg,Urgent Help,
-Family is safe thanks for everyone  s support,images/img027.jpg,Relief Info,
-Officials confirm water supply is safe,images/img028.jpg,Misinformation,
-Stay at home and stay safe everyone,images/img029.jpg,Irrelevant,
+text,image_path,label
+Heavy rain flooded the main street,images/img001.jpg,Urgent Help
+Distribution of emergency food ongoing at city center,images/img002.jpg,Relief Info
+There is no collapse bridge is still safe,images/img003.jpg,Misinformation
+People enjoy a picnic in the park,images/img004.jpg,Irrelevant
+Please help the water is rising fast,images/img005.jpg,Urgent Help
+Medical team has arrived and is treating injured,images/img006.jpg,Relief Info
+False evacuation order reported in the city,images/img007.jpg,Misinformation
+My dog is stuck on the roof please help,images/img008.jpg,Irrelevant
+Several people missing in north area after earthquake,images/img009.jpg,Urgent Help
+Volunteers are needed at the shelter,images/img010.jpg,Relief Info
+Police blocked the main roads please avoid,images/img011.jpg,Relief Info
+Unconfirmed report of hospital running out of medicine,images/img012.jpg,Misinformation
+Evacuation needed water level rising,images/img013.jpg,Urgent Help
+Donations can be sent to the community center,images/img014.jpg,Relief Info
+This photo is old not from today,images/img015.jpg,Misinformation
+Rumors of food shortage are false,images/img016.jpg,Misinformation
+Grateful to the rescue team for saving my family,images/img017.jpg,Relief Info
+Power outage since yesterday elderly people need help,images/img018.jpg,Urgent Help
+Situation improving as water level drops,images/img019.jpg,Relief Info
+Rumor about major casualties is not true,images/img020.jpg,Misinformation
+Drinking coffee at home everyone is fine,images/img021.jpg,Irrelevant
+Factory fire reported smoke in the area,images/img022.jpg,Urgent Help
+Volunteers are distributing food,images/img023.jpg,Relief Info
+No evacuation order given rumors online are false,images/img024.jpg,Misinformation
+Schools will reopen as planned on Monday,images/img025.jpg,Irrelevant
+Ambulance cannot reach east zone need road cleared,images/img026.jpg,Urgent Help
+Family is safe thanks for everyone  s support,images/img027.jpg,Relief Info
+Officials confirm water supply is safe,images/img028.jpg,Misinformation
+Stay at home and stay safe everyone,images/img029.jpg,Irrelevant
 Children and elderly need clean water please help,images/img030.jpg,Urgent Help
-Emergency hotline has resumed service,images/img031.jpg,Relief Info,
-Friends missing after landslide seeking help,images/img032.jpg,Urgent Help,
-Food delivery delayed due to heavy rain,images/img033.jpg,Relief Info,
-Report of bridge collapse is false,images/img034.jpg,Misinformation,
-BBQ party at my house tonight,images/img035.jpg,Irrelevant,
-All transport stopped urgent need for medical help,images/img036.jpg,Urgent Help,
-Roads cleared traffic returns to normal,images/img037.jpg,Relief Info,
-Unverified report of animals escaping during flood,images/img038.jpg,Misinformation,
-Family reunited after disaster thanks to helpers,images/img039.jpg,Relief Info,
-Power not cut everywhere only part of city affected,images/img040.jpg,Misinformation,
-Relaxing at home with my pet,images/img041.jpg,Irrelevant,
-Everyone should stay in safe area and wait for rescue,images/img042.jpg,Urgent Help,
-Blankets and food are being distributed by authorities,images/img043.jpg,Relief Info,
-No epidemic reported in this area,images/img044.jpg,Misinformation,
-Clear skies after storm weather is fine,images/img045.jpg,Irrelevant,
-Residents trapped on roofs need helicopter rescue,images/img046.jpg,Urgent Help,
-Free medical checkups at shelter for all residents,images/img047.jpg,Relief Info,
-Rumor about bridge collapse tonight denied by officials,images/img048.jpg,Misinformation,
-Glad to see the sun again after rain,images/img049.jpg,Irrelevant,
-Rescue teams have reached east zone and are helping,images/img050.jpg,Urgent Help,
-Evacuation order issued for riverside residents,images/img051.jpg,Urgent Help,
-Relief workers are handing out bottled water,images/img052.jpg,Relief Info,
-False claim about looting in city center,images/img053.jpg,Misinformation,
-Family movie night at home,images/img054.jpg,Irrelevant,
+Emergency hotline has resumed service,images/img031.jpg,Relief Info
+Friends missing after landslide seeking help,images/img032.jpg,Urgent Help
+Food delivery delayed due to heavy rain,images/img033.jpg,Relief Info
+Report of bridge collapse is false,images/img034.jpg,Misinformation
+BBQ party at my house tonight,images/img035.jpg,Irrelevant
+All transport stopped urgent need for medical help,images/img036.jpg,Urgent Help
+Roads cleared traffic returns to normal,images/img037.jpg,Relief Info
+Unverified report of animals escaping during flood,images/img038.jpg,Misinformation
+Family reunited after disaster thanks to helpers,images/img039.jpg,Relief Info
+Power not cut everywhere only part of city affected,images/img040.jpg,Misinformation
+Relaxing at home with my pet,images/img041.jpg,Irrelevant
+Everyone should stay in safe area and wait for rescue,images/img042.jpg,Urgent Help
+Blankets and food are being distributed by authorities,images/img043.jpg,Relief Info
+No epidemic reported in this area,images/img044.jpg,Misinformation
+Clear skies after storm weather is fine,images/img045.jpg,Irrelevant
+Residents trapped on roofs need helicopter rescue,images/img046.jpg,Urgent Help
+Free medical checkups at shelter for all residents,images/img047.jpg,Relief Info
+Rumor about bridge collapse tonight denied by officials,images/img048.jpg,Misinformation
+Glad to see the sun again after rain,images/img049.jpg,Irrelevant
+Rescue teams have reached east zone and are helping,images/img050.jpg,Urgent Help
+Evacuation order issued for riverside residents,images/img051.jpg,Urgent Help
+Relief workers are handing out bottled water,images/img052.jpg,Relief Info
+False claim about looting in city center,images/img053.jpg,Misinformation
+Family movie night at home,images/img054.jpg,Irrelevant
 Bridge has not collapsed still safe to cross,images/img055.jpg,Misinformation
-Temporary shelter set up at sports center,images/img056.jpg,Relief Info,
-Untrue reports about missing persons increase panic,images/img057.jpg,Misinformation,
-Local business open as usual,images/img058.jpg,Irrelevant,
-Urgent rescue needed for people trapped in basement,images/img059.jpg,Urgent Help,
-Officials distribute medicine to the affected,images/img060.jpg,Relief Info,
-Flood rumors online are not confirmed,images/img061.jpg,Misinformation,
-Dog show happening this weekend,images/img062.jpg,Irrelevant,
-Flooded street blocks all exits need help urgently,images/img063.jpg,Urgent Help,
+Temporary shelter set up at sports center,images/img056.jpg,Relief Info
+Untrue reports about missing persons increase panic,images/img057.jpg,Misinformation
+Local business open as usual,images/img058.jpg,Irrelevant
+Urgent rescue needed for people trapped in basement,images/img059.jpg,Urgent Help
+Officials distribute medicine to the affected,images/img060.jpg,Relief Info
+Flood rumors online are not confirmed,images/img061.jpg,Misinformation
+Dog show happening this weekend,images/img062.jpg,Irrelevant
+Flooded street blocks all exits need help urgently,images/img063.jpg,Urgent Help
+text,image_path,label
+Heavy rain flooded the main street,images/img001.jpg,Urgent Help
+Distribution of emergency food ongoing at city center,images/img002.jpg,Relief Info
+There is no collapse bridge is still safe,images/img003.jpg,Misinformation
+People enjoy a picnic in the park,images/img004.jpg,Irrelevant
+Please help the water is rising fast,images/img005.jpg,Urgent Help
+Medical team has arrived and is treating injured,images/img006.jpg,Relief Info
+False evacuation order reported in the city,images/img007.jpg,Misinformation
+My dog is stuck on the roof please help,images/img008.jpg,Irrelevant
+Several people missing in north area after earthquake,images/img009.jpg,Urgent Help
+Volunteers are needed at the shelter,images/img010.jpg,Relief Info
+Police blocked the main roads please avoid,images/img011.jpg,Relief Info
+Unconfirmed report of hospital running out of medicine,images/img012.jpg,Misinformation
+Evacuation needed water level rising,images/img013.jpg,Urgent Help
+Donations can be sent to the community center,images/img014.jpg,Relief Info
+This photo is old not from today,images/img015.jpg,Misinformation
+Rumors of food shortage are false,images/img016.jpg,Misinformation
+Grateful to the rescue team for saving my family,images/img017.jpg,Relief Info
+Power outage since yesterday elderly people need help,images/img018.jpg,Urgent Help
+Situation improving as water level drops,images/img019.jpg,Relief Info
+Rumor about major casualties is not true,images/img020.jpg,Misinformation
+Drinking coffee at home everyone is fine,images/img021.jpg,Irrelevant
+Factory fire reported smoke in the area,images/img022.jpg,Urgent Help
+Volunteers are distributing food,images/img023.jpg,Relief Info
+No evacuation order given rumors online are false,images/img024.jpg,Misinformation
+Schools will reopen as planned on Monday,images/img025.jpg,Irrelevant
+Ambulance cannot reach east zone need road cleared,images/img026.jpg,Urgent Help
+Family is safe thanks for everyone  s support,images/img027.jpg,Relief Info
+Officials confirm water supply is safe,images/img028.jpg,Misinformation
+Stay at home and stay safe everyone,images/img029.jpg,Irrelevant
+Children and elderly need clean water please help,images/img030.jpg,Urgent Help
+Emergency hotline has resumed service,images/img031.jpg,Relief Info
+Friends missing after landslide seeking help,images/img032.jpg,Urgent Help
+Food delivery delayed due to heavy rain,images/img033.jpg,Relief Info
+Report of bridge collapse is false,images/img034.jpg,Misinformation
+BBQ party at my house tonight,images/img035.jpg,Irrelevant
+All transport stopped urgent need for medical help,images/img036.jpg,Urgent Help
+Roads cleared traffic returns to normal,images/img037.jpg,Relief Info
+Unverified report of animals escaping during flood,images/img038.jpg,Misinformation
+Family reunited after disaster thanks to helpers,images/img039.jpg,Relief Info
+Power not cut everywhere only part of city affected,images/img040.jpg,Misinformation
+Relaxing at home with my pet,images/img041.jpg,Irrelevant
+Everyone should stay in safe area and wait for rescue,images/img042.jpg,Urgent Help
+Blankets and food are being distributed by authorities,images/img043.jpg,Relief Info
+No epidemic reported in this area,images/img044.jpg,Misinformation
+Clear skies after storm weather is fine,images/img045.jpg,Irrelevant
+Residents trapped on roofs need helicopter rescue,images/img046.jpg,Urgent Help
+Free medical checkups at shelter for all residents,images/img047.jpg,Relief Info
+Rumor about bridge collapse tonight denied by officials,images/img048.jpg,Misinformation
+Glad to see the sun again after rain,images/img049.jpg,Irrelevant
+Rescue teams have reached east zone and are helping,images/img050.jpg,Urgent Help
+Evacuation order issued for riverside residents,images/img051.jpg,Urgent Help
+Relief workers are handing out bottled water,images/img052.jpg,Relief Info
+False claim about looting in city center,images/img053.jpg,Misinformation
+Family movie night at home,images/img054.jpg,Irrelevant
+Bridge has not collapsed still safe to cross,images/img055.jpg,Misinformation
+Temporary shelter set up at sports center,images/img056.jpg,Relief Info
+Untrue reports about missing persons increase panic,images/img057.jpg,Misinformation
+Local business open as usual,images/img058.jpg,Irrelevant
+Urgent rescue needed for people trapped in basement,images/img059.jpg,Urgent Help
+Officials distribute medicine to the affected,images/img060.jpg,Relief Info
+Flood rumors online are not confirmed,images/img061.jpg,Misinformation
+Dog show happening this weekend,images/img062.jpg,Irrelevant
+Flooded street blocks all exits need help urgently,images/img063.jpg,Urgent Help
